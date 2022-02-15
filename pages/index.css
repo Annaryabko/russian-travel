@@ -18,8 +18,8 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_elem/intro__list_elem.css);
-@import url(../blocks/intro/__list/_elem-number/intro__list_elem-number.css);
+@import url(../blocks/intro/__elem/intro__elem.css);
+@import url(../blocks/intro/__elem-number/intro__elem-number.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item-img/photo-grid__item-img.css);
