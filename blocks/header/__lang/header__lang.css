@@ -1,0 +1,6 @@
+@media screen and (max-width: 425px) {
+  .header__lang {
+      align-self: flex-end;
+      padding-bottom: 5px;
+  }
+}

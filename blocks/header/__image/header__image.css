@@ -1,0 +1,13 @@
+.header__image {
+  margin: 64px auto 0;
+  object-fit: contain;
+  width: 100%;
+  max-width: 984px;
+  display: block;
+}
+
+@media screen and (max-width: 425px) {
+  .header__image {
+      margin-top: 40px;
+  }
+}
