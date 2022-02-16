@@ -1,7 +1,7 @@
 .header__menu {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
 }
 
 @media screen and (max-width: 768px) {
