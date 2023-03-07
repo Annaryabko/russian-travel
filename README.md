@@ -1,20 +1,16 @@
-# Проект: Путешествие по России
+# Russian Travel project
 
-### Обзор
-* Интро
-* Описание
-* Посмотреть проект
+### About
+* Description
+* See project
 
-**Интро**
+**Description**
 
-Проект о путешествии по России.
+Project about travelling.
 
-**Описание**
 
-Третья курсовая работа в рамках курса Яндекс практикум. Адаптивный сайт по тематике путешествий, версия Ефимовой Анны.
+**See project**
 
-**Посмотреть проект**
+* [Link](https://annaryabko.github.io/russian-travel/index.html)
 
-* [Ссылка на проект](https://annaryabko.github.io/russian-travel/index.html)
-
-Спасибо!
+Thank you!
