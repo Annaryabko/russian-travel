@@ -1,20 +1,15 @@
-# Проект: Путешествие по России
+# Russian travel: Dead sea and Jerusalem
 
-### Обзор
-* Интро
-* Описание
-* Посмотреть проект
+### About
+* Description
+* See project
 
-**Интро**
+**Description**
 
-Проект о путешествии по России.
+Website about travelling destination around Dead sea and Jerusalem
 
-**Описание**
+**See project**
 
-Третья курсовая работа в рамках курса Яндекс практикум. Адаптивный сайт по тематике путешествий, версия Ефимовой Анны.
-
-**Посмотреть проект**
-
-* [Ссылка на проект](https://annaryabko.github.io/russian-travel/index.html)
+* [Link](https://annaryabko.github.io/russian-travel/index.html)
 
 Спасибо!
